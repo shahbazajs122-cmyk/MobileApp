@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017182355234",
+    "project_id": "mental-app-c8616",
+    "storage_bucket": "mental-app-c8616.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017182355234:android:771b0e8c03877b77336f7b",
+        "android_client_info": {
+          "package_name": "Mental.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL38CK-rQJzegvAA0K7UUr0O109d2WOGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
